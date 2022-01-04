@@ -1,0 +1,11 @@
+def D():
+    print(" ########      ")
+    print(" ##      ##    ")
+    print(" ##       ##   ")
+    print(" ##        ##  ")
+    print(" ##         ## ")
+    print(" ##        ##  ")
+    print(" ##       ##   ")
+    print(" ##      ##    ")
+    print(" ########      ")
+D()
