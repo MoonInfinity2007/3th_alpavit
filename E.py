@@ -1,0 +1,11 @@
+def E():
+    print("   #########   ")
+    print("   ##          ")
+    print("   ##          ")
+    print("   ##          ")
+    print("   #########   ")
+    print("   ##          ")
+    print("   ##          ")
+    print("   ##          ")
+    print("   #########   ")
+E()
