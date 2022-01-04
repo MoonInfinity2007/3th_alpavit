@@ -1,0 +1,11 @@
+def H():
+    print("  ##       ##  ")
+    print("  ##       ##  ")
+    print("  ##       ##  ")
+    print("  ##       ##  ")
+    print("  ###########  ")
+    print("  ##       ##  ")
+    print("  ##       ##  ")
+    print("  ##       ##  ")
+    print("  ##       ##  ")
+H()
